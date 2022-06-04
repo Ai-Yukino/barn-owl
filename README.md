@@ -8,7 +8,13 @@
 
 ---
 
-Automated formant extraction in Praat purely from audio files, e.g. without creating `.TextGrid` files;
+- [Praat](https://www.fon.hum.uva.nl/praat/) scripts to automatically extract raw formant point estimates and pitch queries at the same time points from multiple audio files;
+
+- Formant parameters are taken from [Matt Winn](http://www.mattwinn.com/)'s video [here](https://www.youtube.com/watch?v=fsGIecMgTzQ);
+
+## 📦 Versions
+
+- Praat version 6.2.14 (May 24, 2022)
 
 ## 📚 References 📚
 
