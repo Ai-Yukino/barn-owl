@@ -8,7 +8,9 @@
 
 ---
 
-Example walkthrough of the tutorial
+Automated formant extraction in Praat purely from audio files, e.g. without creating `.TextGrid` files;
+
+This repo attempts to adapt the approach from the tutorial
 
 [📝 Automatic Formant Extraction in Praat](https://joeystanley.com/downloads/191002-formant_extraction)
 
